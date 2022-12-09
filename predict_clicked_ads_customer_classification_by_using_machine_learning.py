@@ -27,7 +27,7 @@ rcParams['lines.linewidth'] = 3
 rcParams['xtick.labelsize'] = 'x-large'
 rcParams['ytick.labelsize'] = 'x-large'
 
-df= pd.read_csv('/content/drive/My Drive/Mini Project 4/Clicked Ads Dataset.csv')
+df= pd.read_csv('/content/drive/My Drive/Predict Clicked Ads Customer by Using Machine Learning/Clicked Ads Dataset.csv')
 
 df = pd.read_csv('Clicked Ads Dataset.csv')
 
