@@ -18,7 +18,7 @@
 <br>
 ### 2.	Categoric data <br>
 
-![ALT](https:https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20kategorik.jpg "EDA Categoric")
+![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20kategorik.jpg "EDA Categoric")
 <br>
 
 ### -	Female have many time to surfing in internet. <br>
@@ -41,7 +41,7 @@
 
 ### 4.	Analysis <br>
 ### a.	Relationship between Age and Daily Time on Site <br>
-![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/Relationship%20betweet%20daily%20spent%20and%20age.jpg"Relatinship between daily time and age")
+![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/Relationship%20betweet%20daily%20spent%20and%20age.jpg "Relationship between daily time and age")
 <br>
 ### b.	Relationship between Internet Usage and Age <br>
 ![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/Relationship%20between%20daily%20internet%20usage%20and%20age.jpg "Relatinship between Internet Usage and age")
