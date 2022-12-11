@@ -100,6 +100,7 @@ The future importance are Area Income, Daily Time Spent on Site. Daily Internet 
 For more detail, you can visit the link below:<br>
 https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming <br>
 https://drive.google.com/drive/folders/1bn4pdGtVZAwFSYAYMvSp__vC4BXDzBro?usp=sharing <br>
+https://medium.com/@inggrianipriscilia/predict-clicked-ads-customer-classification-by-using-machine-learning-6ed7c6168fea <br>
 <br>
 or you can connect with me with linkedin <br>
 https://www.linkedin.com/in/inggriani-priscilia-69779b179/ <br>
