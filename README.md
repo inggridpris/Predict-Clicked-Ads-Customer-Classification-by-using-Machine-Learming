@@ -1,8 +1,8 @@
 # Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming
-<br>
+
 ## Predict Clicked Ads Customer Classification by using Machine Learning: Overview <br>
 ### Some company in Indonesia want to know the effective about some ad that their already publish, this is an important thing for company to know how much this ad can interactive the customer when their look at the ad.<br>
-With processing the historical data advertisement, found an insight, and also path that happened, so can help the company to found the target marketing , focus in this case is made a classification machine learning model that can help marketing found the best and accurate customer for the company purpose.<br>
+### With processing the historical data advertisement, found an insight, and also path that happened, so can help the company to found the target marketing , focus in this case is made a classification machine learning model that can help marketing found the best and accurate customer for the company purpose.<br>
  <br>
 ## About Dataset : <br>
 -	This data have 1000 data,  such as 7 numerics and 5 categoricals. <br>
@@ -10,7 +10,7 @@ With processing the historical data advertisement, found an insight, and also pa
 <br>
 ## EDA<br>
 ### 1.	Numeric data <br>
-![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20numerik.jpg 'EDA Numeric')
+![ALT](https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20numerik.jpg "EDA Numeric")
 <br>
 ### -	Daily Time Spent on Site have mean 64.929 and Age 36 years old. <br>
 ### -	Minimum people usage internet daily is 104.7. <br>
@@ -18,9 +18,8 @@ With processing the historical data advertisement, found an insight, and also pa
 <br>
 ### 2.	Categoric data <br>
 
-![ALT](https:https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20kategorik.jpg "EDA Categorik")
+![ALT](https:https://github.com/inggridpris/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learming/blob/main/Fig/EDA%20kategorik.jpg "EDA Categoric")
 <br>
-
 
 ### -	Female have many time to surfing in internet. <br>
 ### -	Surabaya is the most city that get into the internet. <br>
